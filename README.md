@@ -35,7 +35,7 @@ GIF created with [LiceCap](https://recordit.co).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- I am new to ios development, and I first went over the swift guided tour to learn swift. Then started I started with the Tip Calculator Project.
+- I am new to ios development, and I first went over the swift guided tour to learn swift. Then I started with the Tip Calculator Project.
 
 ## License
 
